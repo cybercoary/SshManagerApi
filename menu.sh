@@ -40,7 +40,7 @@ nome_do_script="sshmanagerapi"
 while true; do
     clear
     echo -e "S-S-H--M-A-N-A-G-E-R"
-    echo -e "By @cybercoari"
+    echo -e "By @Cybercoari"
 
     if verificar_processo "$nome_do_script"; then
         status="${cor_verde}ativo${cor_reset}"
